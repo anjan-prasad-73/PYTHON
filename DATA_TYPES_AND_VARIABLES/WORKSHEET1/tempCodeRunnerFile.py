@@ -1,0 +1,1 @@
+print(str1+" "+str2)
